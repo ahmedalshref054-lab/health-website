@@ -38,4 +38,3 @@
 </p>
 ## 🔗 جرب النسخة الحية
 
-[اضغط هنا لفتح تطبيق غيث للصحة](https://ahmedalshref054-lab.github.io/health-website/)
