@@ -24,11 +24,18 @@
 - **JavaScript:** المسؤول عن المنطق البرمجي وتحديث القيم السبعة.
 
 ## 📸 لقطة من المشروع
-
+<h3 align="center">📸 لقطة من نظام غيث للصحة</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30e9e907-8354-4f12-b25b-5ea44ed8f51e" />"
+  <img src= "https://github.com/user-attachments/assets/30e9e907-8354-4f12-b25b-5ea44ed8f51e" />
 </p>
 
+<p align="center">
+  <b>🔌 ملاحظة تقنية:</b> النظام مصمم للاتصال بحساسات الأردوينو لقراءة البيانات الحيوية بشكل فعلي.
+</p>
+
+<p align="center">
+  <a href="https://ahmedalshref054-lab.github.io/health-website/">🚀 تجربة النسخة الحية للموقع</a>
+</p>
 ## 🔗 جرب النسخة الحية
 
 [اضغط هنا لفتح تطبيق غيث للصحة](https://ahmedalshref054-lab.github.io/health-website/)
