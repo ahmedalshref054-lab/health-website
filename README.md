@@ -26,7 +26,7 @@
 ## 📸 لقطة من المشروع
 
 <p align="center">
-  <img src="رابط_صورة_الموقع_هنا" alt="Ghaith Health Full Preview" width="600">
+  <img src="https://github.com/user-attachments/assets/30e9e907-8354-4f12-b25b-5ea44ed8f51e" />"
 </p>
 
 ## 🔗 جرب النسخة الحية
